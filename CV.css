@@ -1,0 +1,18 @@
+h4
+{
+    color: limegreen;
+    font-size: 110%;
+}
+h3
+{
+    color: cornflowerblue;
+}
+body{
+    padding-left: 50;
+    padding-right: 50;
+}
+hr{
+    height: 3px;
+    background-color:black;
+    
+}
